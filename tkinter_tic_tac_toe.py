@@ -1,6 +1,6 @@
 import tkinter, random
 
-#dopracować!!!!!!
+
 class Converter():
 
     def __init__(self, output_bot):
